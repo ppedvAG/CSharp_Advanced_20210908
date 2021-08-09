@@ -23,7 +23,7 @@ namespace Übung_Solid1
         /// </summary>
         /// <param name="em">Employee object</param>
         /// <returns>Successfully inserted or not</returns>
-        public bool InsertIntoEmployeeTable(Employee em)
+        public bool InsertIntoEmployeeTable(BadEmployee em)
         {
             // Insert into employee table.
             return true;
@@ -47,6 +47,53 @@ namespace Übung_Solid1
         }
     }
 
+    //Lösung
+    #region Datenstruktur
+    public class Employee
+    {
+        public int Employee_Id { get; set; }
+        public string Employee_Name { get; set; }
+    }
+    #endregion
+
+    #region Wäre auch mit Repository ok
+    public interface IRepository
+    {
+        bool InsertIntoEmployeeTable(Employee em);
+    }
+
+    public class Repository : IRepository
+    {
+        public bool InsertIntoEmployeeTable(Employee em)
+        {
+            throw new NotImplementedException();
+        }
+    }
+    #endregion
+
+    #region ReportGenerator 
+    public abstract class ReportGeneratorBase
+    {
+        public abstract void GenerateReport(Employee em);
+    }
+
+    public class PDFReport : ReportGeneratorBase
+    {
+        public override void GenerateReport(Employee em)
+        {
+            //....
+        }
+    }
+
+    public class CRSReport : ReportGeneratorBase
+    {
+        public override void GenerateReport(Employee em)
+        {
+            //....
+        }
+    }
+
+    #endregion
 
 
 
@@ -56,7 +103,7 @@ namespace Übung_Solid1
 
 
 
-   
+
 
 
 

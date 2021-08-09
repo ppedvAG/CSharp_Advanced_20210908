@@ -2,7 +2,7 @@
 Montag:
 - [x] C# Sprachfeatures
 - [x] SOLID
-- [ ] Generics
+- [x] Generics
 - [ ] Benchmark StringBuilder vs +-Operator (bei strings)
 
 Dienstag: 
