@@ -1,12 +1,12 @@
 ### C#-Fortgeschritten - Agend:
 Montag:
-- [ ] C# Sprachfeatures
-- [ ] SOLID
-- [ ] Übungen zu Solid (u.a Interfaces)
-- [ ] Generics?
+- [x] C# Sprachfeatures
+- [x] SOLID
+- [ ] Generics
 - [ ] Benchmark StringBuilder vs +-Operator (bei strings)
 
 Dienstag: 
+- [ ] Übungen zu Solid (u.a Interfaces)
 - [ ] Threading / TPL / async - await /Benchmark-Test
 - [ ] Delegates / Func / Action / Events / EventHandler
 
