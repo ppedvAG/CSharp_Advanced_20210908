@@ -7,18 +7,18 @@ Montag:
 
 Dienstag: 
 - [ ] Übungen zu Solid (u.a Interfaces)
-- [ ] Threading / TPL / async - await /Benchmark-Test
-- [ ] Delegates / Func / Action / Events / EventHandler
+- [x] Threading / TPL / async - await / Benchmark-Test
+- [x] Delegates / Func / Action / Events / EventHandler
 
 
 Mittwoch:
-- [ ] Reflections 
-- [ ] Plugin Pattern (u.a Interfaces)
-- [ ] Serializierung
-- [ ] Erweiterungs-Methoden
-- [ ] Linq / Lambda
-- [ ] Anonyme Typen + dynamische Typen
-- [ ] Operatoren
+- [ ] Reflections (15-20Min)
+- [ ] Plugin Pattern (u.a Interfaces) (20Minuten)
+- [ ] Serializierung (30 Minuten)
+- [ ] Erweiterungs-Methoden (30 Minuten)
+- [ ] Linq / Lambda (30 Minuten)
+- [ ] Anonyme Typen + dynamische Typen (10 Minuten) 
+- [ ] Operatoren (20 Minuten)
 
 Optional:
 Optionaler Rundgang:

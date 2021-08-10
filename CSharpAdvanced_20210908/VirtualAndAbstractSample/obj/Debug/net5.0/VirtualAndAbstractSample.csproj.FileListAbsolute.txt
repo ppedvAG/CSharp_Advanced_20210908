@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\VirtualAndAbstractSample\bin\Debug\net5.0\VirtualAndAbstractSample.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\VirtualAndAbstractSample\bin\Debug\net5.0\VirtualAndAbstractSample.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\VirtualAndAbstractSample\bin\Debug\net5.0\VirtualAndAbstractSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\VirtualAndAbstractSample\bin\Debug\net5.0\VirtualAndAbstractSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\VirtualAndAbstractSample\bin\Debug\net5.0\VirtualAndAbstractSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\VirtualAndAbstractSample\bin\Debug\net5.0\ref\VirtualAndAbstractSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\VirtualAndAbstractSample\bin\Debug\net5.0\VirtualAndAbstractSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\VirtualAndAbstractSample\obj\Debug\net5.0\VirtualAndAbstractSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\VirtualAndAbstractSample\obj\Debug\net5.0\VirtualAndAbstractSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\VirtualAndAbstractSample\obj\Debug\net5.0\VirtualAndAbstractSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\VirtualAndAbstractSample\obj\Debug\net5.0\VirtualAndAbstractSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\VirtualAndAbstractSample\obj\Debug\net5.0\VirtualAndAbstractSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\VirtualAndAbstractSample\obj\Debug\net5.0\ref\VirtualAndAbstractSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\VirtualAndAbstractSample\obj\Debug\net5.0\VirtualAndAbstractSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\VirtualAndAbstractSample\obj\Debug\net5.0\VirtualAndAbstractSample.genruntimeconfig.cache
