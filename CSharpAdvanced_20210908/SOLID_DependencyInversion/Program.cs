@@ -42,8 +42,6 @@ namespace SOLID_DependencyInversion
 
     #region Good Sample
 
-
-        
     public interface ICar
     {
         int Id { get; set; }
@@ -58,8 +56,6 @@ namespace SOLID_DependencyInversion
     {
         void Repair(ICar car);
     }
-
-
 
     public class Car : ICar //Programmieer A -> 5
     {

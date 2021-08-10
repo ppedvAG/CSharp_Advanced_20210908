@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\006_ThreadPoolSample\bin\Debug\net5.0\006_ThreadPoolSample.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\006_ThreadPoolSample\bin\Debug\net5.0\006_ThreadPoolSample.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\006_ThreadPoolSample\bin\Debug\net5.0\006_ThreadPoolSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\006_ThreadPoolSample\bin\Debug\net5.0\006_ThreadPoolSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\006_ThreadPoolSample\bin\Debug\net5.0\006_ThreadPoolSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\006_ThreadPoolSample\bin\Debug\net5.0\ref\006_ThreadPoolSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\006_ThreadPoolSample\bin\Debug\net5.0\006_ThreadPoolSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\006_ThreadPoolSample\obj\Debug\net5.0\006_ThreadPoolSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\006_ThreadPoolSample\obj\Debug\net5.0\006_ThreadPoolSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\006_ThreadPoolSample\obj\Debug\net5.0\006_ThreadPoolSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\006_ThreadPoolSample\obj\Debug\net5.0\006_ThreadPoolSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\006_ThreadPoolSample\obj\Debug\net5.0\006_ThreadPoolSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\006_ThreadPoolSample\obj\Debug\net5.0\ref\006_ThreadPoolSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\006_ThreadPoolSample\obj\Debug\net5.0\006_ThreadPoolSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\006_ThreadPoolSample\obj\Debug\net5.0\006_ThreadPoolSample.genruntimeconfig.cache

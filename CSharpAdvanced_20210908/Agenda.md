@@ -3,7 +3,7 @@ Montag:
 - [x] C# Sprachfeatures
 - [x] SOLID
 - [x] Generics
-- [ ] Benchmark StringBuilder vs +-Operator (bei strings)
+- [x] Benchmark StringBuilder vs +-Operator (bei strings)
 
 Dienstag: 
 - [ ] Übungen zu Solid (u.a Interfaces)
