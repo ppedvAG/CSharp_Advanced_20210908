@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MyMovie.Share/1.0.0": {
+        "runtime": {
+          "MyMovie.Share.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyMovie.Share/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

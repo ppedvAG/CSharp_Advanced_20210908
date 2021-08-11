@@ -5,7 +5,6 @@ C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\CSharp70\bin\
 C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\CSharp70\bin\Debug\net5.0\CSharp70.dll
 C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\CSharp70\bin\Debug\net5.0\ref\CSharp70.dll
 C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\CSharp70\bin\Debug\net5.0\CSharp70.pdb
-C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\CSharp70\obj\Debug\net5.0\CSharp70.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\CSharp70\obj\Debug\net5.0\CSharp70.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\CSharp70\obj\Debug\net5.0\CSharp70.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\CSharp70\obj\Debug\net5.0\CSharp70.AssemblyInfo.cs

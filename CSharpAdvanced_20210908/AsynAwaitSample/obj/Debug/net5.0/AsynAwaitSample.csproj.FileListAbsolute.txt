@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AsynAwaitSample\bin\Debug\net5.0\AsynAwaitSample.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AsynAwaitSample\bin\Debug\net5.0\AsynAwaitSample.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AsynAwaitSample\bin\Debug\net5.0\AsynAwaitSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AsynAwaitSample\bin\Debug\net5.0\AsynAwaitSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AsynAwaitSample\bin\Debug\net5.0\AsynAwaitSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AsynAwaitSample\bin\Debug\net5.0\ref\AsynAwaitSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AsynAwaitSample\bin\Debug\net5.0\AsynAwaitSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AsynAwaitSample\obj\Debug\net5.0\AsynAwaitSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AsynAwaitSample\obj\Debug\net5.0\AsynAwaitSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AsynAwaitSample\obj\Debug\net5.0\AsynAwaitSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AsynAwaitSample\obj\Debug\net5.0\AsynAwaitSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AsynAwaitSample\obj\Debug\net5.0\AsynAwaitSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AsynAwaitSample\obj\Debug\net5.0\ref\AsynAwaitSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AsynAwaitSample\obj\Debug\net5.0\AsynAwaitSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AsynAwaitSample\obj\Debug\net5.0\AsynAwaitSample.genruntimeconfig.cache

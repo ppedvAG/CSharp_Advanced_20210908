@@ -106,7 +106,6 @@ namespace CSharp80
             }
                 
 
-            test.MethodeA
 
             #endregion
 

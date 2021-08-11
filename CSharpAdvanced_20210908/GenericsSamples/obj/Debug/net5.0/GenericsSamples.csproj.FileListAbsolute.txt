@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\GenericsSamples\bin\Debug\net5.0\GenericsSamples.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\GenericsSamples\bin\Debug\net5.0\GenericsSamples.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\GenericsSamples\bin\Debug\net5.0\GenericsSamples.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\GenericsSamples\bin\Debug\net5.0\GenericsSamples.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\GenericsSamples\bin\Debug\net5.0\GenericsSamples.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\GenericsSamples\bin\Debug\net5.0\ref\GenericsSamples.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\GenericsSamples\bin\Debug\net5.0\GenericsSamples.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\GenericsSamples\obj\Debug\net5.0\GenericsSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\GenericsSamples\obj\Debug\net5.0\GenericsSamples.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\GenericsSamples\obj\Debug\net5.0\GenericsSamples.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\GenericsSamples\obj\Debug\net5.0\GenericsSamples.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\GenericsSamples\obj\Debug\net5.0\GenericsSamples.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\GenericsSamples\obj\Debug\net5.0\ref\GenericsSamples.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\GenericsSamples\obj\Debug\net5.0\GenericsSamples.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\GenericsSamples\obj\Debug\net5.0\GenericsSamples.genruntimeconfig.cache

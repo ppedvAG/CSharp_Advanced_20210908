@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\Generics_ConstraintsSample\bin\Debug\net5.0\Generics_ConstraintsSample.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\Generics_ConstraintsSample\bin\Debug\net5.0\Generics_ConstraintsSample.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\Generics_ConstraintsSample\bin\Debug\net5.0\Generics_ConstraintsSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\Generics_ConstraintsSample\bin\Debug\net5.0\Generics_ConstraintsSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\Generics_ConstraintsSample\bin\Debug\net5.0\Generics_ConstraintsSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\Generics_ConstraintsSample\bin\Debug\net5.0\ref\Generics_ConstraintsSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\Generics_ConstraintsSample\bin\Debug\net5.0\Generics_ConstraintsSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\Generics_ConstraintsSample\obj\Debug\net5.0\Generics_ConstraintsSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\Generics_ConstraintsSample\obj\Debug\net5.0\Generics_ConstraintsSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\Generics_ConstraintsSample\obj\Debug\net5.0\Generics_ConstraintsSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\Generics_ConstraintsSample\obj\Debug\net5.0\Generics_ConstraintsSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\Generics_ConstraintsSample\obj\Debug\net5.0\Generics_ConstraintsSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\Generics_ConstraintsSample\obj\Debug\net5.0\ref\Generics_ConstraintsSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\Generics_ConstraintsSample\obj\Debug\net5.0\Generics_ConstraintsSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\Generics_ConstraintsSample\obj\Debug\net5.0\Generics_ConstraintsSample.genruntimeconfig.cache

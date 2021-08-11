@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "8OVCay8s0k/OeZaFugDYTiujdErvjCJKW18Up2M7qW4koR9NnXxZ/sMsubugpyCmegNq6L9WCU0wTsQsVzT3dQ==",
+  "success": false,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Advanced_20210908\\CSharpAdvanced_20210908\\ServiceCollectionAndServiceProviderSample\\ServiceCollectionAndServiceProviderSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Aktueller Kurs\\CSharp_Advanced_20210908\\CSharpAdvanced_20210908\\DependencyInversionSample\\DependencyInversionSample.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Aktueller Kurs\\CSharp_Advanced_20210908\\CSharpAdvanced_20210908\\DependencyInversionSample\\DependencyInversionSample.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

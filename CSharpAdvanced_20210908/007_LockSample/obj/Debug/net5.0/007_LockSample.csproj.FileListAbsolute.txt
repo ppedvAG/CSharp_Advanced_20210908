@@ -13,4 +13,3 @@ C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\007_LockSampl
 C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\007_LockSample\obj\Debug\net5.0\ref\007_LockSample.dll
 C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\007_LockSample\obj\Debug\net5.0\007_LockSample.pdb
 C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\007_LockSample\obj\Debug\net5.0\007_LockSample.genruntimeconfig.cache
-C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\007_LockSample\obj\Debug\net5.0\007_LockSample.csproj.AssemblyReference.cache

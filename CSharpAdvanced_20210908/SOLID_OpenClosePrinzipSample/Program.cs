@@ -114,9 +114,7 @@ namespace SOLID_OpenClosePrinzipSample
             : base(numbers)
         {
         }
-        public  override int Calculate()
-        {
-        }
+        
 
            
     }

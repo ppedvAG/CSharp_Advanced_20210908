@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\SOLID_SRPSample\bin\Debug\net5.0\SOLID_SRPSample.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\SOLID_SRPSample\bin\Debug\net5.0\SOLID_SRPSample.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\SOLID_SRPSample\bin\Debug\net5.0\SOLID_SRPSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\SOLID_SRPSample\bin\Debug\net5.0\SOLID_SRPSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\SOLID_SRPSample\bin\Debug\net5.0\SOLID_SRPSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\SOLID_SRPSample\bin\Debug\net5.0\ref\SOLID_SRPSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\SOLID_SRPSample\bin\Debug\net5.0\SOLID_SRPSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\SOLID_SRPSample\obj\Debug\net5.0\SOLID_SRPSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\SOLID_SRPSample\obj\Debug\net5.0\SOLID_SRPSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\SOLID_SRPSample\obj\Debug\net5.0\SOLID_SRPSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\SOLID_SRPSample\obj\Debug\net5.0\SOLID_SRPSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\SOLID_SRPSample\obj\Debug\net5.0\SOLID_SRPSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\SOLID_SRPSample\obj\Debug\net5.0\ref\SOLID_SRPSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\SOLID_SRPSample\obj\Debug\net5.0\SOLID_SRPSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\SOLID_SRPSample\obj\Debug\net5.0\SOLID_SRPSample.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\SOLID_SRPSample\obj\Debug\net5.0\SOLID_SRPSample.csproj.AssemblyReference.cache

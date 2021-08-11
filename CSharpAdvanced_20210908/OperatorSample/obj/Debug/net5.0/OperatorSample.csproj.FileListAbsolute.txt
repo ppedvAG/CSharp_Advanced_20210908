@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\OperatorSample\bin\Debug\net5.0\OperatorSample.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\OperatorSample\bin\Debug\net5.0\OperatorSample.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\OperatorSample\bin\Debug\net5.0\OperatorSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\OperatorSample\bin\Debug\net5.0\OperatorSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\OperatorSample\bin\Debug\net5.0\OperatorSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\OperatorSample\bin\Debug\net5.0\ref\OperatorSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\OperatorSample\bin\Debug\net5.0\OperatorSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\OperatorSample\obj\Debug\net5.0\OperatorSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\OperatorSample\obj\Debug\net5.0\OperatorSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\OperatorSample\obj\Debug\net5.0\OperatorSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\OperatorSample\obj\Debug\net5.0\OperatorSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\OperatorSample\obj\Debug\net5.0\OperatorSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\OperatorSample\obj\Debug\net5.0\ref\OperatorSample.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\OperatorSample\obj\Debug\net5.0\OperatorSample.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\OperatorSample\obj\Debug\net5.0\OperatorSample.genruntimeconfig.cache

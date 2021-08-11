@@ -1,0 +1,11 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\MyMovie.Share\bin\Debug\net5.0\MyMovie.Share.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\MyMovie.Share\bin\Debug\net5.0\MyMovie.Share.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\MyMovie.Share\bin\Debug\net5.0\ref\MyMovie.Share.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\MyMovie.Share\bin\Debug\net5.0\MyMovie.Share.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\MyMovie.Share\obj\Debug\net5.0\MyMovie.Share.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\MyMovie.Share\obj\Debug\net5.0\MyMovie.Share.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\MyMovie.Share\obj\Debug\net5.0\MyMovie.Share.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\MyMovie.Share\obj\Debug\net5.0\MyMovie.Share.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\MyMovie.Share\obj\Debug\net5.0\MyMovie.Share.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\MyMovie.Share\obj\Debug\net5.0\ref\MyMovie.Share.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\MyMovie.Share\obj\Debug\net5.0\MyMovie.Share.pdb
