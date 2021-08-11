@@ -42,7 +42,7 @@ namespace CSharp70
             string zweiterVorname = string.Empty;
             string nachname = "Walkes";
 
-            string complete_name == vorname + (zweiterVorname != string.Empty ? zweiterVorname : string.Empty) +nachname;
+            string complete_name = vorname + (zweiterVorname != string.Empty ? zweiterVorname : string.Empty) +nachname;
         }
 
         private bool MyTryParse(string eingabe, out int toCheck)

@@ -1,0 +1,16 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AddressManager\bin\Debug\net5.0\AddressManager.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AddressManager\bin\Debug\net5.0\AddressManager.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AddressManager\bin\Debug\net5.0\AddressManager.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AddressManager\bin\Debug\net5.0\AddressManager.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AddressManager\bin\Debug\net5.0\AddressManager.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AddressManager\bin\Debug\net5.0\ref\AddressManager.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AddressManager\bin\Debug\net5.0\AddressManager.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AddressManager\obj\Debug\net5.0\AddressManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AddressManager\obj\Debug\net5.0\AddressManager.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AddressManager\obj\Debug\net5.0\AddressManager.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AddressManager\obj\Debug\net5.0\AddressManager.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AddressManager\obj\Debug\net5.0\AddressManager.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AddressManager\obj\Debug\net5.0\ref\AddressManager.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AddressManager\obj\Debug\net5.0\AddressManager.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AddressManager\obj\Debug\net5.0\AddressManager.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\AddressManager\obj\Debug\net5.0\AddressManager.csproj.AssemblyReference.cache

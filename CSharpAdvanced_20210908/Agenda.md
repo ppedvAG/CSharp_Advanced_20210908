@@ -12,14 +12,14 @@ Dienstag:
 
 
 Mittwoch:
-- [ ] Reflections (15-20Min)
-- [ ] Plugin Pattern (u.a Interfaces) (20Minuten)
-- [ ] Serializierung (30 Minuten)
-- [ ] Erweiterungs-Methoden (30 Minuten)
-- [ ] Linq / Lambda (30 Minuten)
-- [ ] Anonyme Typen + dynamische Typen (10 Minuten) 
-- [ ] Operatoren (20 Minuten)
-- [ ] Unit-Test
+- [x] Reflections (15-20Min)
+- [x] Plugin Pattern (u.a Interfaces) (20Minuten)
+- [x] Serializierung (30 Minuten)
+- [x] Erweiterungs-Methoden (30 Minuten)
+- [x] Anonyme Typen + dynamische Typen (10 Minuten) 
+- [x] Linq / Lambda (30 Minuten)
+- [x] Operatoren (20 Minuten)
+- [ ] Unit-Test (30 bis 40Min)
 
 Optional:
 Optionaler Rundgang:

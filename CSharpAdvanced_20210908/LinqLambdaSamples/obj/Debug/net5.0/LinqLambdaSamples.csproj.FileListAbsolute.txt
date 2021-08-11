@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\LinqLambdaSamples\bin\Debug\net5.0\LinqLambdaSamples.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\LinqLambdaSamples\bin\Debug\net5.0\LinqLambdaSamples.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\LinqLambdaSamples\bin\Debug\net5.0\LinqLambdaSamples.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\LinqLambdaSamples\bin\Debug\net5.0\LinqLambdaSamples.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\LinqLambdaSamples\bin\Debug\net5.0\LinqLambdaSamples.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\LinqLambdaSamples\bin\Debug\net5.0\ref\LinqLambdaSamples.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\LinqLambdaSamples\bin\Debug\net5.0\LinqLambdaSamples.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\LinqLambdaSamples\obj\Debug\net5.0\LinqLambdaSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\LinqLambdaSamples\obj\Debug\net5.0\LinqLambdaSamples.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\LinqLambdaSamples\obj\Debug\net5.0\LinqLambdaSamples.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\LinqLambdaSamples\obj\Debug\net5.0\LinqLambdaSamples.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\LinqLambdaSamples\obj\Debug\net5.0\LinqLambdaSamples.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\LinqLambdaSamples\obj\Debug\net5.0\ref\LinqLambdaSamples.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\LinqLambdaSamples\obj\Debug\net5.0\LinqLambdaSamples.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\LinqLambdaSamples\obj\Debug\net5.0\LinqLambdaSamples.genruntimeconfig.cache

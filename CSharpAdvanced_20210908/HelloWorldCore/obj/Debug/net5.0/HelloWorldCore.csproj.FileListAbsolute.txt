@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\HelloWorldCore\bin\Debug\net5.0\HelloWorldCore.exe
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\HelloWorldCore\bin\Debug\net5.0\HelloWorldCore.deps.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\HelloWorldCore\bin\Debug\net5.0\HelloWorldCore.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\HelloWorldCore\bin\Debug\net5.0\HelloWorldCore.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\HelloWorldCore\bin\Debug\net5.0\HelloWorldCore.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\HelloWorldCore\bin\Debug\net5.0\ref\HelloWorldCore.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\HelloWorldCore\bin\Debug\net5.0\HelloWorldCore.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\HelloWorldCore\obj\Debug\net5.0\HelloWorldCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\HelloWorldCore\obj\Debug\net5.0\HelloWorldCore.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\HelloWorldCore\obj\Debug\net5.0\HelloWorldCore.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\HelloWorldCore\obj\Debug\net5.0\HelloWorldCore.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\HelloWorldCore\obj\Debug\net5.0\HelloWorldCore.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\HelloWorldCore\obj\Debug\net5.0\ref\HelloWorldCore.dll
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\HelloWorldCore\obj\Debug\net5.0\HelloWorldCore.pdb
+C:\Aktueller Kurs\CSharp_Advanced_20210908\CSharpAdvanced_20210908\HelloWorldCore\obj\Debug\net5.0\HelloWorldCore.genruntimeconfig.cache
