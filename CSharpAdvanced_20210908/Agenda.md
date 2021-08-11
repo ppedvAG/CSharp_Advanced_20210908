@@ -19,6 +19,7 @@ Mittwoch:
 - [ ] Linq / Lambda (30 Minuten)
 - [ ] Anonyme Typen + dynamische Typen (10 Minuten) 
 - [ ] Operatoren (20 Minuten)
+- [ ] Unit-Test
 
 Optional:
 Optionaler Rundgang:

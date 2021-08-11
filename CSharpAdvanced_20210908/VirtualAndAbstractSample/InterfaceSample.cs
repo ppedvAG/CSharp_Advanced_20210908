@@ -6,7 +6,22 @@ using System.Threading.Tasks;
 
 namespace VirtualAndAbstractSample
 {
-    class InterfaceSample
+    public interface InterfaceSample
     {
+        void MessageOutput(string Message);
+        void ZahlDesTages();
+    }
+
+    public class MyInterfaceSampleImplementation : InterfaceSample
+    {
+        public void MessageOutput(string Message)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void ZahlDesTages()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

@@ -28,6 +28,4 @@ namespace VirtualAndAbstractSample
             return 123;
         }
     }
-
-
 }
