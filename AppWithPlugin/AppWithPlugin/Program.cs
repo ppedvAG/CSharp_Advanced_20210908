@@ -20,6 +20,9 @@ namespace AppWithPlugin
                 }
 
                 
+                //Verwende ein eigenes Plugin-Verzeichnis
+                //kopiere alle Dlls rein
+                //Lese Verzeichnis aus Dicretory.GetFiles
 
                 string[] pluginPaths = new string[]
                 {
@@ -98,7 +101,7 @@ namespace AppWithPlugin
             //Gehe alle imlementierten Typen innerhalb der geladenen Dll (AssemblyObj) durch. 
             foreach (Type type in assembly.GetTypes())
             {
-                //Hier wird geprüft, ob die Dll 
+                //Hier wird geprüft, ob die Dll zu meinem Programm gehört -< bzw ob die Dll von PluginBase.ICommand abgeleitet ist.
                 if (type.GetInterfaces().Contains(typeof(PluginBase.ICommand)))
                 {
                     ICommand result = Activator.CreateInstance(type) as ICommand;

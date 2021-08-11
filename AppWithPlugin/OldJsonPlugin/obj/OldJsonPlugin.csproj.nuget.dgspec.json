@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_20210621\\AppWithPlugin\\OldJsonPlugin\\OldJsonPlugin.csproj": {}
+    "C:\\Aktueller Kurs\\CSharp_Advanced_20210908\\AppWithPlugin\\OldJsonPlugin\\OldJsonPlugin.csproj": {}
   },
   "projects": {
-    "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_20210621\\AppWithPlugin\\OldJsonPlugin\\OldJsonPlugin.csproj": {
+    "C:\\Aktueller Kurs\\CSharp_Advanced_20210908\\AppWithPlugin\\OldJsonPlugin\\OldJsonPlugin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_20210621\\AppWithPlugin\\OldJsonPlugin\\OldJsonPlugin.csproj",
+        "projectUniqueName": "C:\\Aktueller Kurs\\CSharp_Advanced_20210908\\AppWithPlugin\\OldJsonPlugin\\OldJsonPlugin.csproj",
         "projectName": "OldJsonPlugin",
-        "projectPath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_20210621\\AppWithPlugin\\OldJsonPlugin\\OldJsonPlugin.csproj",
+        "projectPath": "C:\\Aktueller Kurs\\CSharp_Advanced_20210908\\AppWithPlugin\\OldJsonPlugin\\OldJsonPlugin.csproj",
         "packagesPath": "C:\\Users\\kw4\\.nuget\\packages\\",
-        "outputPath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_20210621\\AppWithPlugin\\OldJsonPlugin\\obj\\",
+        "outputPath": "C:\\Aktueller Kurs\\CSharp_Advanced_20210908\\AppWithPlugin\\OldJsonPlugin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -33,8 +33,8 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_20210621\\AppWithPlugin\\PluginBase\\PluginBase.csproj": {
-                "projectPath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_20210621\\AppWithPlugin\\PluginBase\\PluginBase.csproj",
+              "C:\\Aktueller Kurs\\CSharp_Advanced_20210908\\AppWithPlugin\\PluginBase\\PluginBase.csproj": {
+                "projectPath": "C:\\Aktueller Kurs\\CSharp_Advanced_20210908\\AppWithPlugin\\PluginBase\\PluginBase.csproj",
                 "excludeAssets": "runtime"
               }
             }
@@ -71,18 +71,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_20210621\\AppWithPlugin\\PluginBase\\PluginBase.csproj": {
+    "C:\\Aktueller Kurs\\CSharp_Advanced_20210908\\AppWithPlugin\\PluginBase\\PluginBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_20210621\\AppWithPlugin\\PluginBase\\PluginBase.csproj",
+        "projectUniqueName": "C:\\Aktueller Kurs\\CSharp_Advanced_20210908\\AppWithPlugin\\PluginBase\\PluginBase.csproj",
         "projectName": "PluginBase",
-        "projectPath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_20210621\\AppWithPlugin\\PluginBase\\PluginBase.csproj",
+        "projectPath": "C:\\Aktueller Kurs\\CSharp_Advanced_20210908\\AppWithPlugin\\PluginBase\\PluginBase.csproj",
         "packagesPath": "C:\\Users\\kw4\\.nuget\\packages\\",
-        "outputPath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_20210621\\AppWithPlugin\\PluginBase\\obj\\",
+        "outputPath": "C:\\Aktueller Kurs\\CSharp_Advanced_20210908\\AppWithPlugin\\PluginBase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -133,7 +133,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

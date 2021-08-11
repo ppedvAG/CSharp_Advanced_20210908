@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2RuDJC1Q8TT4D9nABCwMbG524sJ6ITa8byR3Fz5+gHkzGbykXRAqejzZHUt6o4nsDMrV0ww3DS1DUtIaeVsMQQ==",
+  "dgSpecHash": "OPVZY3cLwN7KZy72lZGEsIIDw6Lb8STcza3zJFAR5sSjNdTGotX1+6rcXQ2kZtvHkHVfx9osf8G4K4HzJ4K4rQ==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_20210621\\AppWithPlugin\\PluginBase\\PluginBase.csproj",
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Advanced_20210908\\AppWithPlugin\\PluginBase\\PluginBase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

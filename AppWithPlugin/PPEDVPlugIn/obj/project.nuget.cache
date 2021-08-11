@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k6msHRyVfoKfRVV6PM99xPnlHA7VGTniB3cONMg53JoxHIqFjDBHx78MNNOw+hJG6poUaQMjZojGB3boCDxRWA==",
+  "dgSpecHash": "MfleWGNAQSv9Vft8giWq51bjavDAkniUIvjUJgy3NT0nx7lDroeu0d1n6UJbs/5YJUkcjZZVmDESMBpavxF6xQ==",
   "success": true,
-  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_20210621\\AppWithPlugin\\PPEDVPlugIn\\PPEDVPlugIn.csproj",
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Advanced_20210908\\AppWithPlugin\\PPEDVPlugIn\\PPEDVPlugIn.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\kw4\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

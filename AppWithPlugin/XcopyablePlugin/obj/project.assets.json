@@ -75,11 +75,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_20210621\\AppWithPlugin\\XcopyablePlugin\\XcopyablePlugin.csproj",
+      "projectUniqueName": "C:\\Aktueller Kurs\\CSharp_Advanced_20210908\\AppWithPlugin\\XcopyablePlugin\\XcopyablePlugin.csproj",
       "projectName": "XcopyablePlugin",
-      "projectPath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_20210621\\AppWithPlugin\\XcopyablePlugin\\XcopyablePlugin.csproj",
+      "projectPath": "C:\\Aktueller Kurs\\CSharp_Advanced_20210908\\AppWithPlugin\\XcopyablePlugin\\XcopyablePlugin.csproj",
       "packagesPath": "C:\\Users\\kw4\\.nuget\\packages\\",
-      "outputPath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_20210621\\AppWithPlugin\\XcopyablePlugin\\obj\\",
+      "outputPath": "C:\\Aktueller Kurs\\CSharp_Advanced_20210908\\AppWithPlugin\\XcopyablePlugin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -101,8 +101,8 @@
         "netcoreapp3.0": {
           "targetAlias": "netcoreapp3.0",
           "projectReferences": {
-            "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_20210621\\AppWithPlugin\\PluginBase\\PluginBase.csproj": {
-              "projectPath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_20210621\\AppWithPlugin\\PluginBase\\PluginBase.csproj",
+            "C:\\Aktueller Kurs\\CSharp_Advanced_20210908\\AppWithPlugin\\PluginBase\\PluginBase.csproj": {
+              "projectPath": "C:\\Aktueller Kurs\\CSharp_Advanced_20210908\\AppWithPlugin\\PluginBase\\PluginBase.csproj",
               "excludeAssets": "runtime"
             }
           }
@@ -152,7 +152,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
